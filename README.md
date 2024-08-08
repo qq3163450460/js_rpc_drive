@@ -1,6 +1,6 @@
 # js_rpc_drive
 js逆向通杀免补环境工具(理论)   
-支持高并发 兼容性较强
+支持高并发 兼容性较强    
 config.json 配置详解:   
   ON_OFF 是否无头   
   USER_DATA_PATH 浏览器临时缓存地址(可以不动)   
