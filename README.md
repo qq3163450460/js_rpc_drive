@@ -1,6 +1,6 @@
 # js_rpc_drive
 js逆向通杀免补环境工具(免去抠代码补环境)    
-支持高并发 兼容性较强    
+支持高并发 毫秒级响应
 环境安装:    
 pip install -r requirements.txt    
 config.json 配置详解:   
