@@ -1,8 +1,8 @@
 # js_rpc_drive
-js逆向通杀免补环境工具(免去抠代码补环境)    
+js逆向通杀免补环境工具(操作简单)    
 支持高并发 毫秒级响应   
 环境安装:    
-    -pip install -r requirements.txt    
+    pip install -r requirements.txt    
 config.json 配置详解:   
   ON_OFF 是否无头   
   USER_DATA_PATH 浏览器临时缓存地址(可以不动)   
