@@ -1,0 +1,7 @@
+{
+  "ON_OFF": true,
+  "USER_DATA_PATH": "chrome_data",
+  "BROWSER_PATH": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "URL": "https://****.com",
+  "COOKIES": {}
+}

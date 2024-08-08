@@ -1,0 +1,6 @@
+requests~=2.32.3
+psutil~=5.9.1
+DrissionPage~=4.0.4.24
+config~=0.5.1
+loguru~=0.6.0
+Flask~=2.2.2
