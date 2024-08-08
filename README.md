@@ -5,5 +5,4 @@ USER_DATA_PATH 浏览器临时缓存地址
 BROWSER_PATH 浏览器安装路径
 URL  网站地址
 COOKIES  网站cookies
-
 无环境js文件放入jsdata文件即可 调用详情见 dome文件
