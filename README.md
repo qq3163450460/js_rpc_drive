@@ -10,5 +10,5 @@ config.json 配置详解:
   URL  网站地址   
   COOKIES  网站cookies(不需要填{}即可)         
 扣的js文件放入jsdata文件 运行rpc_drive 即可     
-调用详情见 dome文件
-bug联系3163450460
+调用详情见 dome文件    
+bug联系qq
